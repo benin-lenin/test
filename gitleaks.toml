@@ -1,0 +1,6 @@
+[extend]
+useDefault = true
+
+[[rules]]
+id = "unite-token"
+regex='''u/*'''
