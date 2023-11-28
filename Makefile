@@ -1,1 +1,2 @@
-build: sleep 1
+build:
+  sleep 1
